@@ -1,0 +1,6 @@
+{
+  "name": "EstateLens",
+  "description": "AI-Powered Real Estate Video Analysis & Marketing Platform. Turn property videos into professional listings, social media Reels, WhatsApp pitches, and PDF brochures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
